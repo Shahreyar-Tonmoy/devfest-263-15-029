@@ -14,11 +14,11 @@
 
 | Property | Value |
 | :--- | :--- |
-| **Contestant Name** | **Shahreyar Tonmoy** |
+| **Contestant Name** | **Md Mubtashim Shahreyar Tonmoy** |
 | **Registration Number** | **`263-15-029`** |
 | **Repository Link** | [https://github.com/Shahreyar-Tonmoy/devfest-263-15-029](https://github.com/Shahreyar-Tonmoy/devfest-263-15-029) |
-| **Public Live HTTPS Deployment** | [https://devfest-263-15-029.vercel.app](https://devfest-263-15-029.vercel.app) |
-| **Final Eligible Commit ID** | `bc6bc26` (or latest HEAD) |
+| **Public Live HTTPS Deployment** | [https://tender-document-builder.netlify.app/](https://tender-document-builder.netlify.app/) |
+| **Final Eligible Commit ID** | `e994fb3` (or latest HEAD) |
 | **License** | MIT License |
 
 ---
