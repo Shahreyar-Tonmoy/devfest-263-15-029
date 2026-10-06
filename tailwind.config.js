@@ -6,6 +6,11 @@ export default {
   ],
   theme: {
     extend: {
+      fontFamily: {
+        sans: ['"Anek Bangla"', 'Inter', '-apple-system', 'BlinkMacSystemFont', '"Segoe UI"', 'Roboto', 'sans-serif'],
+        bangla: ['"Anek Bangla"', 'sans-serif'],
+        english: ['Inter', 'sans-serif'],
+      },
       colors: {
         brand: {
           50: '#eff6ff',

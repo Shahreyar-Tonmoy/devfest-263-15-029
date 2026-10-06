@@ -11,6 +11,9 @@ export const LanguageProvider = ({ children }) => {
 
   useEffect(() => {
     localStorage.setItem('devfest_lang', lang);
+    if (typeof document !== 'undefined') {
+      document.documentElement.lang = lang;
+    }
   }, [lang]);
 
   const toggleLanguage = () => {
