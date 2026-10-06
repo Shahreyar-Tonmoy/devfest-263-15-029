@@ -2,9 +2,9 @@ export const bn = {
   // Navigation & Branding
   appName: "টেন্ডার ডকুমেন্ট প্যাকেজ বিল্ডার",
   appTagline: "টেন্ডার প্রস্তাবনার সকল নথি যাচাই, ক্রমানুসারে সাজানো এবং প্যাকেজ তৈরির পূর্ণাঙ্গ সমাধান",
-  navBuilder: "প্যাকেজ বিল্ডার",
-  navPreview: "প্যাকেজ প্রিভিউ",
-  navGuide: "প্রতিযোগিতার নিয়মাবলী ও নির্দেশিকা",
+  navBuilder: "বিল্ডার",
+  navPreview: "প্রিভিউ",
+  navGuide: "নির্দেশিকা",
   saveWork: "সংরক্ষণ করুন",
   loadWork: "লোড করুন",
   exportProject: "প্রজেক্ট এক্সপোর্ট (.json)",

@@ -2,9 +2,9 @@ export const en = {
   // Navigation & Branding
   appName: "Tender Document Package Builder",
   appTagline: "Prepare, verify, order and export compliant tender bid packages",
-  navBuilder: "Package Builder",
-  navPreview: "Package Preview",
-  navGuide: "Contest Rules & Guide",
+  navBuilder: "Builder",
+  navPreview: "Preview",
+  navGuide: "Guide",
   saveWork: "Save Work",
   loadWork: "Load Work",
   exportProject: "Export Project (.json)",
